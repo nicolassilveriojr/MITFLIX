@@ -6,6 +6,7 @@ body {
 .titulo {
     color: rgb(124, 12, 119);
     font-size: 40px;
+    font-family: cursive;
 }
 
 .principalvd {
@@ -13,7 +14,7 @@ body {
     max-width: 3000px;
     margin: 0 auto;
     border-radius: 9px;
-    display: flex;
+    display: flex-end;
     background-color: #000000;
     padding: 2px;
 }
