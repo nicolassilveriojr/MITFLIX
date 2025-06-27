@@ -1,0 +1,18 @@
+body {
+    color: rgb(255, 255, 255);
+    background-color: rgb(202, 127, 202);
+}
+
+.titulo {
+    color: rgb(124, 12, 119);
+}
+
+.principalvd {
+    box-shadow: 0 0 70px rgb(255, 255, 255);
+    max-width: 3000px;
+    margin: 0 auto;
+    border-radius: 9px;
+    display: flex;
+    background-color: #000000;
+    padding: 2px;
+}
