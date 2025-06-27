@@ -17,6 +17,7 @@ text-align: center;
 .titulo {
     color: #f6b60d;
     font-size: 40px;
+    flex: 1;
     
 }
 
@@ -37,4 +38,13 @@ text-align: center;
 
 .lk{
   line-height: 150px;
+}
+
+.chamada{
+display: flex;
+justify-content: center;
+}
+
+.chamada-texto{
+
 }
