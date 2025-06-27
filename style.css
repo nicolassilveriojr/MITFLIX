@@ -1,12 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
 body {
-    color: rgb(255, 255, 255);
+    color: rgb(34, 31, 31);
     background-color: rgb(202, 127, 202);
 }
 
+header{
+background-color: rgb(255, 255, 255);
+text-align: center;
+}
+
 .titulo {
-    color: rgb(124, 12, 119);
+    color: rgb(0, 0, 0);
     font-size: 40px;
-    font-family: cursive;
+    
 }
 
 .principalvd {
@@ -20,4 +31,5 @@ body {
 }
 .texto1{
     text-align: center;
+    display: flex-end;
 }
