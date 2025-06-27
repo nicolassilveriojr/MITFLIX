@@ -10,12 +10,12 @@ body {
 }
 
 header{
-background-color: #f6b60d;
+background-color: #390879;
 text-align: center;
 }
 
 .titulo {
-    color: #372800;
+    color: #f6b60d;
     font-size: 40px;
     
 }
@@ -32,4 +32,9 @@ text-align: center;
 .texto1{
     text-align: center;
     display: flex-end;
+    line-height: 20px;
+}
+
+.lk{
+  line-height: 150px;
 }
