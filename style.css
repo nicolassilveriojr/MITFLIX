@@ -43,7 +43,6 @@ text-align: center;
 .chamada{
 display: flex;
 justify-content: center;
-margin-left: 50%;
 }
 
 .chamada-texto{
