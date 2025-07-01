@@ -59,7 +59,7 @@ img{
     width: 20%;
 }
 
-.categoria-video{
+.categoria-videoS{
     display: flex;
     overflow-x: auto;
     gap: 10px;
