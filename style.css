@@ -51,4 +51,13 @@ justify-content: center;
 }
 .categoria-video{
     height: 200px;
+
+}
+
+img{
+    width: 200px;
+}
+.categoria-video{
+    display: flex;
+
 }
