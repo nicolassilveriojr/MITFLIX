@@ -55,9 +55,9 @@ justify-content: center;
 }
 
 img{
-    width: 200px;
+    width: 30%;
 }
 .categoria-video{
     display: flex;
-
+    overflow-x: auto;
 }
